@@ -3,7 +3,7 @@ package com.mycompany.stop_and_wait_protocol;
 
 /**
  *
- * @author shakil
+ * @author bijon
  */
 public class Stop_and_wait_protocol {
 

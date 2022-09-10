@@ -3,7 +3,7 @@ package com.mycompany.go_back_n_sliding_window_protocol;
 
 /**
  *
- * @author shakil
+ * @author Bijon
  */
 public class Go_back_n_sliding_window_protocol {
 

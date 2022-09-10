@@ -7,7 +7,7 @@ package com.mycompany.one_bit_sliding_window_protocol;
 
 /**
  *
- * @author shakil
+ * @author bijon
  */
 public class One_bit_sliding_window_protocol {
 

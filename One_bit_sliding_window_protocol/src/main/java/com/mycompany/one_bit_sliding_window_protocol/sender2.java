@@ -2,7 +2,7 @@ package com.mycompany.one_bit_sliding_window_protocol;
 
 /**
  *
- * @author shakil
+ * @author bijon
  */
 //SENDER PROGRAM
 import java.net.*;
